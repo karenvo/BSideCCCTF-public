@@ -21,7 +21,7 @@ I'd like to note that the TimeGenerated field for Log Analytics Workspace is not
 
 ## Links
 | Application Name      | URL                       | Purpose                                            |
-| --------------------- | ------------------------- | -------------------------------------------------- |
+| --------------------- | ------------------------- |  -------------------------------------------------- |
 | Microsoft Entra       | entra.microsoft.com       | Entra for users                                    |
 | Microsoft Defender    | security.microsoft.com    |                                                    |
 | Azure Portal          | portal.azure.com          | Locate your azure resources, such as Log Analytics |
