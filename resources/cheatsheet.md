@@ -14,22 +14,21 @@ I'd like to note that the TimeGenerated field for Log Analytics Workspace is not
 | Mason Webb    | Ben Heng         | Jacob Valdivia   |
 | Tommy Yang    | Luke Kimes       | Luke Gutierrez   |
 | Chris Duncan  | Dien Nguyen      | Vera Grayeb      |
-| Laura Solorio | Jennifer Chandoo | Grayson Gardnier |
-| Justin Emig   | Piunik           | Dat Nguyen       |
-| Abi           |                  | Nancy C          |
-
+| Justin Emig   | Jennifer Chandoo | Grayson Gardnier |
+| Abi           | Piunik           | Dat Nguyen       |
+|               | Devin            | Nancy C          |
 
 
 ## Links
-| Application Name      | URL                            | Purpose                                            |
-| --------------------- | ------------------------------ | -------------------------------------------------- |
-| Microsoft Entra       | entra.microsoft.com            | Entra for users                                    |
-| Microsoft Defender    | security.microsoft.com         |                                                    |
-| Azure Portal          | portal.azure.com               | Locate your azure resources, such as Log Analytics |
-| Microsoft 365         | M365.cloud.microsoft.com       | m365 resources such as excel, word, etc            |
-| Login                 | login.microsoftonline.com      | First step of OAuth at Microsoft                   |
-| Purview               | https://purview.microsoft.com/ | ex. audits logs for passwords                      |
-| Exchange Admin Center | exchange.microsoft.com         | Mail                                               |
+| Application Name      | URL                       | Purpose                                            |
+| --------------------- | ------------------------- | -------------------------------------------------- |
+| Microsoft Entra       | entra.microsoft.com       | Entra for users                                    |
+| Microsoft Defender    | security.microsoft.com    |                                                    |
+| Azure Portal          | portal.azure.com          | Locate your azure resources, such as Log Analytics |
+| Microsoft 365         | M365.cloud.microsoft.com  | m365 resources such as excel, word, etc            |
+| Login                 | login.microsoftonline.com | First step of OAuth at Microsoft                   |
+| Purview               | purview.microsoft.com     | ex. audits logs for passwords                      |
+| Exchange Admin Center | exchange.microsoft.com    | Mail                                               |
 
 [Log Analytics Workspace](https://portal.azure.com/#@churchofmemeology.com/resource/subscriptions/96159d73-8c62-4276-8abc-46ccd8071a6d/resourceGroups/BsideCCCTF/providers/Microsoft.OperationalInsights/workspaces/Logs4Days/logs)
 

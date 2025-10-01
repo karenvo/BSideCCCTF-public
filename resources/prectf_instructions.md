@@ -21,7 +21,7 @@ In order for THM to keep track of your teams scores, the leader must create a gr
 | Chris Duncan  | Dien Nguyen      | Vera Grayeb      |
 | Justin Emig   | Jennifer Chandoo | Grayson Gardnier |
 | Abi           | Piunik           | Dat Nguyen       |
-|               |                  | Nancy C          |
+|               | Devin            | Nancy C          |
 
 To get started with the lab:
 
