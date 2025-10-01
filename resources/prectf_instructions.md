@@ -25,7 +25,7 @@ In order for THM to keep track of your teams scores, the leader must create a gr
 
 To get started with the lab:
 
-1. Navigate to `login.microsoftonline.com` or `myapps.microsoft.com`
+1. Navigate to `login.microsoftonline.com` or `myapps.microsoft.com` for the first portion. You will log into `portal.azure.com` soon enough for the log analytics!
 2. You will have access to all your apps, feel free to look around for some of the CTF.
 3. Familiarize yourself with the log analytics workspace.
-4. have fun!
+4. Have fun!
